@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="petName"> Pet Name</string>
+    <string name="hunger"> Hunger</string>
+    <string name="level"> Level: 1</string>
+    <string name="affection"> Affection</string>
+    <string name="play"> Play</string>
+    <string name="feed"> Feed</string>
+    <string name="TODO"> TODO</string>
+
+
+</resources>
